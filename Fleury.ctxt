@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fleury()
+comment1.params=
+comment1.target=int\ findStartVert()
+comment2.params=
+comment2.target=void\ isCircuit()
+comment3.params=u\ v
+comment3.target=boolean\ isBridge(int,\ int)
+comment4.params=
+comment4.target=int\ edgeCount()
+comment5.params=start
+comment5.target=void\ calculate(int)
+comment6.params=
+comment6.target=void\ matrixToString()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
